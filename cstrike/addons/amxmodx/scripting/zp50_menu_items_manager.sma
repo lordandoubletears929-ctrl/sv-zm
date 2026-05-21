@@ -32,7 +32,7 @@
 #include <zp50_ammopacks>
 
 #define PLUGIN  "ZP50 Custom Hub"
-#define VERSION "1.2"
+#define VERSION "1.3-debug"
 #define AUTHOR  "ChatGPT"
 
 #define VIP_FLAG ADMIN_LEVEL_H
