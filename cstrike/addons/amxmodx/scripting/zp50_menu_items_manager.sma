@@ -171,11 +171,6 @@ public plugin_init()
 public plugin_cfg()
 {
     load_shop_config()
-    set_task(1.0, "task_resolve_shop_item_ids")
-}
-
-public task_resolve_shop_item_ids()
-{
     resolve_shop_item_ids()
 }
 
