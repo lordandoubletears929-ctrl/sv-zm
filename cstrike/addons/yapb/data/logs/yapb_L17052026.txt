@@ -1,0 +1,25 @@
+2026-05-17 00:33:39 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 00:46:13 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 00:57:22 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 00:57:23 (ERROR): Unable to open Graph file for reading (filename: 'addons\yapb\data\graph\zm_assault_remake.graph').
+2026-05-17 01:04:07 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 01:21:38 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 11:03:36 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 11:53:25 (ERROR): Unable to open Graph file for reading (filename: 'addons\yapb\data\graph\zm_iceworld_humans.graph').
+2026-05-17 12:46:32 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_biohazard_base_mx.prc').
+2026-05-17 13:10:10 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 14:53:53 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 14:54:15 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 15:06:49 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 15:07:10 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 15:07:11 (ERROR): Unable to open Graph file for reading (filename: 'addons\yapb\data\graph\zm_aztek.graph').
+2026-05-17 15:18:36 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 15:18:48 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 15:19:28 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 15:20:50 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 15:21:01 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 15:21:32 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 15:21:49 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 15:23:47 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 15:32:35 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-17 15:54:52 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').

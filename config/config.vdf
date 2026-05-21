@@ -1,0 +1,16 @@
+"InstallConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"CurrentCellID"		"118"
+				"TimeCellIDSet"		"1778959893"
+				"PingTimeForCurrentCellID"		"2147483647"
+				"NCTF"		"0"
+			}
+		}
+	}
+}

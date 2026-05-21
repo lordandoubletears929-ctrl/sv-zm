@@ -1,0 +1,39 @@
+[en]
+ZP_MENU_TITLE = Zombie Plague Menu
+ZP_MENU_BUY_WEAPONS = Buy Weapons
+ZP_MENU_EXTRA_ITEMS = Extra Items
+ZP_MENU_ZOMBIE_CLASSES = Zombie Classes
+ZP_MENU_UNSTUCK = Unstuck
+ZP_MENU_VIP = VIP Options
+ZP_MENU_ADMIN = Admin Menu
+ZP_MENU_EXIT = Exit
+ZP_MENU_BACK = Back
+ZP_SHOP_TITLE = Extra Items
+ZP_SHOP_NO_ITEMS = No items available.
+ZP_SHOP_PLAYER_LIMIT = You reached the round limit for this item.
+ZP_SHOP_GLOBAL_LIMIT = This item reached the global round limit.
+ZP_SHOP_NOT_ENOUGH_AP = Not enough ammo packs. You need %d.
+ZP_SHOP_BOUGHT = Bought %s for %d AP.
+ZP_UNSTUCK_WAIT = Wait %.1f seconds to use unstuck again.
+ZP_UNSTUCK_FAILED = No safe unstuck spot found.
+ZP_UNSTUCK_DONE = Unstuck done.
+
+[es]
+ZP_MENU_TITLE = Menu Zombie Plague
+ZP_MENU_BUY_WEAPONS = Comprar Armas
+ZP_MENU_EXTRA_ITEMS = Items Extra
+ZP_MENU_ZOMBIE_CLASSES = Clases Zombie
+ZP_MENU_UNSTUCK = Desatascar
+ZP_MENU_VIP = Opciones VIP
+ZP_MENU_ADMIN = Menu Admin
+ZP_MENU_EXIT = Salir
+ZP_MENU_BACK = Volver
+ZP_SHOP_TITLE = Items Extra
+ZP_SHOP_NO_ITEMS = No hay items disponibles.
+ZP_SHOP_PLAYER_LIMIT = Alcanzaste el limite por ronda de este item.
+ZP_SHOP_GLOBAL_LIMIT = Este item alcanzo el limite global por ronda.
+ZP_SHOP_NOT_ENOUGH_AP = No tienes suficientes ammo packs. Necesitas %d.
+ZP_SHOP_BOUGHT = Compraste %s por %d AP.
+ZP_UNSTUCK_WAIT = Espera %.1f segundos para usar unstuck otra vez.
+ZP_UNSTUCK_FAILED = No se encontro una posicion segura.
+ZP_UNSTUCK_DONE = Desatascado correctamente.

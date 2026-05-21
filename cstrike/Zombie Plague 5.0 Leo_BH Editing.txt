@@ -1,0 +1,8 @@
+Zombie Plague 5.0 Leo_BH Editing is fork of original Zombie Plague 5.0 Mod. Based on Zombie Plague 5.0.8a.
+
+Key principles to developing this fork: 
+- More comfortable for the eyes. Less flashing, strobing, blinking, flickering lights. 
+- More FPS. Improved game perfomance. Less dynamic lighting. 
+- More customization. More variables. More customization. More gameplay balance tweaks. 
+- Keep original gameplay and content. 
+

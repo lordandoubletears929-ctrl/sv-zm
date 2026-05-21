@@ -1,0 +1,48 @@
+L 05/20/2026 - 00:50:06: Start of error session.
+L 05/20/2026 - 00:50:06: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260520.log")
+L 05/20/2026 - 00:50:06: [AMXX] Plugin file open error (plugin "statustexttest.amxx")
+L 05/20/2026 - 00:50:11: Start of error session.
+L 05/20/2026 - 00:50:11: Info (map "zm_foda") (file "addons/amxmodx/logs/error_20260520.log")
+L 05/20/2026 - 00:50:11: [AMXX] Plugin file open error (plugin "statustexttest.amxx")
+L 05/20/2026 - 00:50:50: Start of error session.
+L 05/20/2026 - 00:50:50: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260520.log")
+L 05/20/2026 - 00:50:50: [AMXX] Plugin file open error (plugin "statustexttest.amxx")
+L 05/20/2026 - 00:50:53: Start of error session.
+L 05/20/2026 - 00:50:53: Info (map "zm_biohazard_base_mx") (file "addons/amxmodx/logs/error_20260520.log")
+L 05/20/2026 - 00:50:53: [AMXX] Plugin file open error (plugin "statustexttest.amxx")
+L 05/20/2026 - 18:46:22: Start of error session.
+L 05/20/2026 - 18:46:22: Info (map "zm_gbox7") (file "addons/amxmodx/logs/error_20260520.log")
+L 05/20/2026 - 18:46:22: [ZP] Player already infected (24)
+L 05/20/2026 - 18:46:22: [AMXX] Run time error 10 (plugin "zp50_gamemode_swarm.amxx") (native "zp_core_infect") - debug not enabled!
+L 05/20/2026 - 18:46:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/20/2026 - 20:06:04: Start of error session.
+L 05/20/2026 - 20:06:04: Info (map "zm_gg") (file "addons/amxmodx/logs/error_20260520.log")
+L 05/20/2026 - 20:06:04: Called dynanative into a paused plugin.
+L 05/20/2026 - 20:06:04: [AMXX] Run time error 10 (plugin "zp50_class_zombie.amxx") (native "cs_set_player_model") - debug not enabled!
+L 05/20/2026 - 20:06:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/20/2026 - 20:06:04: Called dynanative into a paused plugin.
+L 05/20/2026 - 20:06:04: [AMXX] Run time error 10 (plugin "zp50_class_zombie_leech.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/20/2026 - 20:06:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/20/2026 - 20:06:04: Called dynanative into a paused plugin.
+L 05/20/2026 - 20:06:04: [AMXX] Run time error 10 (plugin "zp50_knockback.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/20/2026 - 20:06:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/20/2026 - 20:06:04: Called dynanative into a paused plugin.
+L 05/20/2026 - 20:06:04: [AMXX] Run time error 10 (plugin "zp50_zp43_compat.amxx") (native "zp_class_zombie_get_current") - debug not enabled!
+L 05/20/2026 - 20:06:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/20/2026 - 20:06:04: Unhandled dynamic native error
+L 05/20/2026 - 20:06:04: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "zp_get_user_zombie_class") - debug not enabled!
+L 05/20/2026 - 20:06:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/20/2026 - 20:06:04: Called dynanative into a paused plugin.
+L 05/20/2026 - 20:06:04: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "zp_get_user_ammo_packs") - debug not enabled!
+L 05/20/2026 - 20:06:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/20/2026 - 20:06:56: Called dynanative into a paused plugin.
+L 05/20/2026 - 20:06:56: [AMXX] Run time error 10 (plugin "zp50_class_human.amxx") (native "cs_set_player_model") - debug not enabled!
+L 05/20/2026 - 20:06:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/20/2026 - 20:07:11: [AMXX] Run time error 3 (plugin "cs_weap_restrict_api.amxx") - debug not enabled!
+L 05/20/2026 - 20:07:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/20/2026 - 20:07:13: [AMXX] Run time error 3 (plugin "cs_weap_restrict_api.amxx") - debug not enabled!
+L 05/20/2026 - 20:07:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/20/2026 - 20:07:13: [AMXX] Run time error 3 (plugin "cs_weap_restrict_api.amxx") - debug not enabled!
+L 05/20/2026 - 20:07:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/20/2026 - 20:07:16: [AMXX] Run time error 3 (plugin "cs_weap_restrict_api.amxx") - debug not enabled!
+L 05/20/2026 - 20:07:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

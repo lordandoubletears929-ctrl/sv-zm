@@ -1,0 +1,57 @@
+
+
+[2026-05-16 14:31:31] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-16 14:31:51] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-16 14:32:27] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-16 14:33:25] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-16 14:33:52] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-20 00:50:08] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-20 00:50:50] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-20 11:40:07] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-20 15:09:21] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-20 15:12:50] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-20 15:14:32] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-20 15:27:21] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-20 16:25:52] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-20 18:38:21] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-20 20:09:31] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-21 00:13:24] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-21 00:15:46] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-21 00:25:38] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".
+
+
+[2026-05-21 00:45:29] Loaded 0 apps from install folder "C:\Users\Diego\Desktop\sv zm\steamapps\appmanifest_*.acf".

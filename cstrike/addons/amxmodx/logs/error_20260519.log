@@ -1,0 +1,611 @@
+L 05/19/2026 - 19:36:42: Start of error session.
+L 05/19/2026 - 19:36:42: Info (map "zm_terrible_invasion") (file "addons/amxmodx/logs/error_20260519.log")
+L 05/19/2026 - 19:36:42: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:42: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:43: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:43: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:44: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:44: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:45: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:45: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:46: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:46: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:47: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:47: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:48: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:48: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:49: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:49: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:50: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:50: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:51: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:51: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:52: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:52: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:53: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:53: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:54: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:54: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:55: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:55: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:56: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:56: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:57: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:57: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:58: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:58: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:36:59: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:36:59: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:36:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:00: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:00: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:01: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:01: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:02: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:02: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:03: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:03: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:04: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:04: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:05: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:05: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:06: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:06: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:07: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:07: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:08: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:08: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:09: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:09: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:10: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:10: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:11: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:11: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:12: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:12: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:13: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:13: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:14: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:14: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:15: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:15: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:16: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:16: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:17: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:17: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:18: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:18: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:19: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:19: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:20: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:20: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:21: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:21: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:22: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:22: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:23: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:23: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:24: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:24: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:25: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:25: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:26: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:26: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:27: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:27: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:28: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:28: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:29: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:29: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:30: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:30: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:31: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:31: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:32: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:32: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:33: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:33: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:34: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:34: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:35: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:35: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:36: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:36: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:37: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:37: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:38: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:38: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:39: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:39: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:40: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:40: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:41: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:41: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:42: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:42: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:43: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:43: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:44: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:44: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:45: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:45: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:46: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:46: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:47: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:47: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:48: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:48: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:49: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:49: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:50: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:50: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:51: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:51: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:52: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:52: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:53: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:53: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:54: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:54: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:55: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:55: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:56: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:56: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:57: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:57: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:58: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:58: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:37:59: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:37:59: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:37:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:00: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:00: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:01: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:01: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:02: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:02: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:03: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:03: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:04: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:04: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:05: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:05: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:06: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:06: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:07: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:07: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:08: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:08: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:09: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:09: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:10: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:10: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:11: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:11: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:12: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:12: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:13: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:13: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:14: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:14: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:15: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:15: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:16: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:16: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:17: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:17: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:18: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:18: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:19: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:19: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:20: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:20: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:21: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:21: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:22: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:22: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:23: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:23: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:24: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:24: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:25: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:25: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:26: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:26: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:27: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:27: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:28: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:28: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:29: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:29: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:30: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:30: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:31: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:31: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:32: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:32: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:33: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:33: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:34: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:34: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:35: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:35: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:36: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:36: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:37: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:37: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:38: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:38: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:39: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:39: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:40: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:40: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:41: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:41: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:42: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:42: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:43: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:43: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:44: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:44: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:45: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:45: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:46: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:46: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:47: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:47: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:48: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:48: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:49: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:49: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:50: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:50: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:51: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:51: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:52: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:52: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:53: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:53: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:54: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:54: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:55: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:55: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:56: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:56: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:57: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:57: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:58: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:58: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:38:59: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:38:59: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:38:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:00: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:00: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:01: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:01: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:02: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:02: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:03: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:03: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:04: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:04: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:05: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:05: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:06: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:06: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:07: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:07: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:08: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:08: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:09: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:09: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:10: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:10: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:11: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:11: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:12: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:12: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:13: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:13: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:14: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:14: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:15: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:15: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:16: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:16: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:17: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:17: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:18: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:18: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:19: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:19: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:20: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:20: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:21: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:21: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:22: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:22: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:23: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:23: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:24: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:24: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:25: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:25: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:26: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:26: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:27: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:27: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:28: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:28: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:29: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:29: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:30: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:30: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:31: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:31: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:32: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:32: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:33: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:33: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:34: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:34: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:35: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:35: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:36: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:36: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:37: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:37: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:38: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:38: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:39: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:39: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:40: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:40: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:41: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:41: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:42: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:42: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:43: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:43: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:44: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:44: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:45: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:45: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:46: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:46: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:47: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:47: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:48: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:48: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:49: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:49: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:50: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:50: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:51: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:51: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:52: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:52: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:53: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:53: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:54: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:54: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:55: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:55: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:56: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:56: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 19:39:57: Plugin called message_begin with an invalid message id (0).
+L 05/19/2026 - 19:39:57: [AMXX] Run time error 10 (plugin "statustexttest.amxx") (native "message_begin") - debug not enabled!
+L 05/19/2026 - 19:39:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/19/2026 - 20:09:03: Start of error session.
+L 05/19/2026 - 20:09:03: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260519.log")
+L 05/19/2026 - 20:09:03: [AMXX] Plugin file open error (plugin "statustexttest.amxx")
+L 05/19/2026 - 20:09:32: Start of error session.
+L 05/19/2026 - 20:09:32: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260519.log")
+L 05/19/2026 - 20:09:32: [AMXX] Plugin file open error (plugin "statustexttest.amxx")
+L 05/19/2026 - 20:10:00: Start of error session.
+L 05/19/2026 - 20:10:00: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260519.log")
+L 05/19/2026 - 20:10:00: [AMXX] Plugin file open error (plugin "statustexttest.amxx")
+L 05/19/2026 - 20:10:04: Start of error session.
+L 05/19/2026 - 20:10:04: Info (map "zm_zod_dust") (file "addons/amxmodx/logs/error_20260519.log")
+L 05/19/2026 - 20:10:04: [AMXX] Plugin file open error (plugin "statustexttest.amxx")
+L 05/19/2026 - 20:13:16: Start of error session.
+L 05/19/2026 - 20:13:16: Info (map "zm_foda") (file "addons/amxmodx/logs/error_20260519.log")
+L 05/19/2026 - 20:13:16: [AMXX] Plugin file open error (plugin "statustexttest.amxx")
+L 05/19/2026 - 20:13:25: Start of error session.
+L 05/19/2026 - 20:13:25: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260519.log")
+L 05/19/2026 - 20:13:25: [AMXX] Plugin file open error (plugin "statustexttest.amxx")
+L 05/19/2026 - 20:13:29: Start of error session.
+L 05/19/2026 - 20:13:29: Info (map "zm_foda") (file "addons/amxmodx/logs/error_20260519.log")
+L 05/19/2026 - 20:13:29: [AMXX] Plugin file open error (plugin "statustexttest.amxx")

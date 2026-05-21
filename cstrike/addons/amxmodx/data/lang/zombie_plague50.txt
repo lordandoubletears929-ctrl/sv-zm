@@ -1,0 +1,176 @@
+[en]
+CMD_CANT_LAST_HUMAN = You can't use this command on the last human.
+CMD_CANT_LAST_ZOMBIE = You can't use this command on the last zombie.
+CMD_ONLY_AFTER_GAME_MODE = You can only use this command after a game mode started.
+GAME_MODE_CANT_START = Game mode can't be started right now.
+CANT_RESPAWN = Player can't be respawned
+ALREADY_SURVIVOR = Player already a survivor
+ALREADY_NEMESIS = Player already a nemesis
+ALREADY_HUMAN = Player already a human
+ALREADY_ZOMBIE = Player already a zombie
+INVALID_GAME_MODE = Invalid game mode id
+CMD_START_GAME_MODE = start Game Mode
+
+CANT_BUY_WEAPONS_DEAD = You can't buy weapons when dead.
+CUSTOM_BUY_DISABLED = Custom buy menus are disabled.
+BUY_MENU_TIME_EXPIRED = Buy menu time has expired.
+CANT_BUY_ITEMS_DEAD = You can't buy extra items when dead.
+CMD_NOT_HCLASSES = Human Classes are disabled.
+NO_ADMIN_MENU = Admin menu not available.
+NO_CLASSES = No classes are currently available to you.
+NO_EXTRA_ITEMS = No extra items are currently available to you.
+CANT_CHANGE_TEAM = You can't change team right now.
+NOT_ENOUGH_MONEY = You dont have enough money.
+REQUIRED_AMOUNT = %d required
+HUMAN_SELECT = Your next human class will be
+
+MONEY1 = Money:
+MENU_BUY3_TITLE = Grenades
+MENU_HCLASS = Choose Human Class
+MENU_CHOOSE_TEAM = Choose Team
+MENU_ADMIN_START_GAME_MODE = Start Game Mode (use at roundstart)
+NOTICE_ARMAGEDDON = Armageddon Mode !!!
+NOTICE_ANTIDOTE2 = %s has given %s an antidote...
+
+MODENAME Infection Mode = Infection Mode
+MODENAME Nemesis Mode = Nemesis Mode
+MODENAME Survivor Mode = Survivor Mode
+MODENAME Swarm Mode = Swarm Mode
+MODENAME Multiple Infection Mode = Multiple Infection Mode
+MODENAME Plague Mode = Plague Mode
+MODENAME Armageddon Mode = Armageddon Mode
+
+LAST_SPAWN = You can not respanw automatic
+MAX_SPAWNS = Automatic respawn now is nothing
+
+[es]
+CMD_CANT_LAST_HUMAN = No puedes usar este comando en el último humano.
+CMD_CANT_LAST_ZOMBIE = No puedes usar este comando en el último zombie.
+CMD_ONLY_AFTER_GAME_MODE = Sólo puedes usar este comando luego de que un modo haya comenzado.
+GAME_MODE_CANT_START = El modo no puede iniciarse ahora.
+CANT_RESPAWN = El jugador no puede ser revivido
+ALREADY_SURVIVOR = El jugador ya es un survivor
+ALREADY_NEMESIS = El jugador ya es un nemesis
+ALREADY_HUMAN = El jugador ya es un humano
+ALREADY_ZOMBIE = El jugador ya es un zombie
+INVALID_GAME_MODE = ID de modo no válido
+CMD_START_GAME_MODE = comenzar Modo
+
+CANT_BUY_WEAPONS_DEAD = No puedes comprar armas si estás muerto.
+CUSTOM_BUY_DISABLED = Los menús de compra están deshabilitados.
+BUY_MENU_TIME_EXPIRED = El tiempo del menú de compra ha acabado.
+CANT_BUY_ITEMS_DEAD = No puedes comprar items extra si estás muerto.
+CMD_NOT_HCLASSES = Clases de Humano están deshabilitadas.
+NO_ADMIN_MENU = Menú de Admin no disponible.
+NO_CLASSES = No hay clases disponibles para ti actualmente.
+NO_EXTRA_ITEMS = No hay items extra disponibles para ti actualmente.
+CANT_CHANGE_TEAM = No puedes cambiar de equipo ahora.
+NOT_ENOUGH_MONEY = No tienes suficiente dinero.
+REQUIRED_AMOUNT = %d requeridos
+HUMAN_SELECT = Tu próxima clase de humano será
+
+MONEY1 = Dinero:
+MENU_BUY3_TITLE = Granadas
+MENU_HCLASS = Elegir Clase de Humano
+MENU_CHOOSE_TEAM = Elegir Equipo
+MENU_ADMIN_START_GAME_MODE = Comenzar Modo (usar al principio de la ronda)
+NOTICE_ARMAGEDDON = Modo Armageddon !!!
+NOTICE_ANTIDOTE2 = %s le ha dado un antídoto a %s...
+
+MODENAME Infection Mode = Modo Infección
+MODENAME Nemesis Mode = Modo Nemesis
+MODENAME Survivor Mode = Modo Survivor
+MODENAME Swarm Mode = Modo Swarm
+MODENAME Multiple Infection Mode = Modo Multiple Infección
+MODENAME Plague Mode = Modo Plague
+MODENAME Armageddon Mode = Modo Armageddon
+
+[ru]
+CMD_CANT_LAST_HUMAN = Последний человек не может использовать эту команду.
+CMD_CANT_LAST_ZOMBIE = Последний зомби не может использовать эту команду.
+CMD_ONLY_AFTER_GAME_MODE = Можно использовать только после заражения.
+GAME_MODE_CANT_START = Можно использовать только до начала заражения.
+CANT_RESPAWN = Нельзя возродить
+ALREADY_SURVIVOR = Игрок уже выживший
+ALREADY_NEMESIS = Игрок уже немезис
+ALREADY_HUMAN = Игрок уже человек
+ALREADY_ZOMBIE = Игрок уже зомби
+INVALID_GAME_MODE = Неверный ID режима игры
+CMD_START_GAME_MODE = Старт режима
+
+CANT_BUY_WEAPONS_DEAD = Только для живых.
+CUSTOM_BUY_DISABLED = Пользовательские меню покупки отключено.
+BUY_MENU_TIME_EXPIRED = Время открытыя меню покупок истекло.
+CANT_BUY_ITEMS_DEAD = Только для живых.
+CMD_NOT_HCLASSES = Классы человека отключены.
+NO_ADMIN_MENU = Админ меню не доступно.
+NO_CLASSES = Нет доступных классов в настоящое время для вас.
+NO_EXTRA_ITEMS = Нет доступных специальних-предметов в настоящое время для вас.
+CANT_CHANGE_TEAM = Вы не можете поменять команду прямо сейчас.
+NOT_ENOUGH_MONEY = У вас недостаточно денег.
+REQUIRED_AMOUNT = %d требуется
+HUMAN_SELECT = Ваш класс человека
+
+MONEY1 = Деньги
+MENU_BUY3_TITLE = Гранаты
+MENU_HCLASS = Класс Людей
+MENU_CHOOSE_TEAM = Сменить команду
+MENU_ADMIN_START_GAME_MODE = Игровые моды (до начала раунда)
+NOTICE_ARMAGEDDON = Армагеддон
+NOTICE_ANTIDOTE2 = %s дал %s антидот...
+
+MODENAME Infection Mode = Заражение
+MODENAME Nemesis Mode = Немезида
+MODENAME Survivor Mode = Выживший
+MODENAME Swarm Mode = Бой на смерть
+MODENAME Multiple Infection Mode = Множественое заражение
+MODENAME Plague Mode = Чума
+MODENAME Armageddon Mode = Армагеддон
+
+LAST_SPAWN = Вы больше не сможете возродится автоматически!
+MAX_SPAWNS = Автоматические возрождение закончилось
+
+[ua]
+CMD_CANT_LAST_HUMAN = Остання людина не може використовувати цю команду.
+CMD_CANT_LAST_ZOMBIE = Останній зомбі не може використовувати цю команду.
+CMD_ONLY_AFTER_GAME_MODE = Можна використовувати тільки після зараження.
+GAME_MODE_CANT_START = Можна використовувати тільки до початку зараження.
+CANT_RESPAWN = Неможливо відродитися
+ALREADY_SURVIVOR = Гравець вже Вцілілий
+ALREADY_NEMESIS = Гравець вже Немезис
+ALREADY_HUMAN = Гравець вже Людина
+ALREADY_ZOMBIE = Гравець вже Зомбі
+INVALID_GAME_MODE = Невірний ID режиму гри
+CMD_START_GAME_MODE = Старт режиму
+
+CANT_BUY_WEAPONS_DEAD = Тільки для живих.
+CUSTOM_BUY_DISABLED = Користувацькі меню покупок вимкнено.
+BUY_MENU_TIME_EXPIRED = Час відкриття меню покупок сплив.
+CANT_BUY_ITEMS_DEAD = Тільки для живих.
+CMD_NOT_HCLASSES = Класи людей вимкнені.
+NO_ADMIN_MENU = Адмін-меню недоступне.
+NO_CLASSES = Наразі немає доступних класів для вас.
+NO_EXTRA_ITEMS = Наразі немає доступних спеціальних предметів для вас.
+CANT_CHANGE_TEAM = Ви не можете змінити команду прямо зараз.
+NOT_ENOUGH_MONEY = У вас недостатньо грошей.
+REQUIRED_AMOUNT = Потрібно %d
+HUMAN_SELECT = Ваш клас людини
+
+MONEY1 = Гроші
+MENU_BUY3_TITLE = Гранати
+MENU_HCLASS = Клас Людей
+MENU_CHOOSE_TEAM = Змінити команду
+MENU_ADMIN_START_GAME_MODE = Ігрові режими (до початку раунду)
+NOTICE_ARMAGEDDON = Армагеддон
+NOTICE_ANTIDOTE2 = %s дав %s антидот...
+
+MODENAME Infection Mode = Зараження
+MODENAME Nemesis Mode = Немезида
+MODENAME Survivor Mode = Вцілілий
+MODENAME Swarm Mode = Бій на смерть
+MODENAME Multiple Infection Mode = Множинне зараження
+MODENAME Plague Mode = Чума
+MODENAME Armageddon Mode = Армагеддон
+
+LAST_SPAWN = Ви більше не зможете відродитися автоматично!
+MAX_SPAWNS = Автоматичне відродження завершено

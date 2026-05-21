@@ -1,0 +1,1 @@
+START /HIGH  hlds.exe -game cstrike +ip 0.0.0.0 +port 27015 +map zm_laura +maxplayers 32 -console -master

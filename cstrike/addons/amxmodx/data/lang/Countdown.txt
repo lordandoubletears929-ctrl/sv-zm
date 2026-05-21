@@ -1,0 +1,5 @@
+[en]
+COUNTDOWN_MESSAGE = Infection will release in %d
+
+[es]
+COUNTDOWN_MESSAGE = Infección se liberara en %d

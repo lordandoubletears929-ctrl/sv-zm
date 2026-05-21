@@ -1,0 +1,5 @@
+[en]
+ZP_HUD_FORMAT = Ammo Packs: %d || HP: %d || Class: %s || Weapon: %s
+
+[es]
+ZP_HUD_FORMAT = Ammo Packs: %d || HP: %d || Clase: %s || Arma: %s

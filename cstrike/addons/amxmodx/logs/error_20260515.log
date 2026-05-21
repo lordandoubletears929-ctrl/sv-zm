@@ -1,0 +1,56 @@
+L 05/15/2026 - 18:52:09: Start of error session.
+L 05/15/2026 - 18:52:09: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 18:52:09: [AMXX] Invalid Plugin (plugin "zp_giveap.amxx")
+L 05/15/2026 - 19:12:19: Start of error session.
+L 05/15/2026 - 19:12:19: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 19:12:19: [AMXX] Plugin file open error (plugin "zp_giveap.amxx")
+L 05/15/2026 - 19:20:27: Start of error session.
+L 05/15/2026 - 19:20:27: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 19:20:27: [AMXX] Plugin file open error (plugin "zp_giveap.amxx")
+L 05/15/2026 - 20:52:08: Start of error session.
+L 05/15/2026 - 20:52:08: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 20:52:08: [AMXX] Invalid Plugin (plugin "dhud_message_test.amxx")
+L 05/15/2026 - 20:55:47: Start of error session.
+L 05/15/2026 - 20:55:47: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 20:55:47: [AMXX] Plugin file open error (plugin "zp_extra_addon_countdown.amxx")
+L 05/15/2026 - 20:55:47: [AMXX] Invalid Plugin (plugin "dhud_message_test.amxx")
+L 05/15/2026 - 20:56:36: Start of error session.
+L 05/15/2026 - 20:56:36: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 20:56:36: [AMXX] Invalid Plugin (plugin "dhud_message_test.amxx")
+L 05/15/2026 - 20:59:52: Start of error session.
+L 05/15/2026 - 20:59:52: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 20:59:52: [AMXX] Plugin file open error (plugin "zp_countdown_remix.amx")
+L 05/15/2026 - 20:59:52: [AMXX] Plugin file open error (plugin "zp_countdown_remix_wo_csxx.amxx")
+L 05/15/2026 - 21:02:46: Start of error session.
+L 05/15/2026 - 21:02:46: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 21:02:46: [AMXX] Plugin file open error (plugin "zp_countdown_remix.amx")
+L 05/15/2026 - 21:02:46: [AMXX] Plugin file open error (plugin "zp_countdown_remix_wo_csxx.amxx")
+L 05/15/2026 - 21:03:30: Start of error session.
+L 05/15/2026 - 21:03:30: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 21:03:30: [AMXX] Plugin file open error (plugin "zp_countdown_remix.amx")
+L 05/15/2026 - 21:03:30: [AMXX] Plugin file open error (plugin "zp_countdown_remix_wo_csxx.amxx")
+L 05/15/2026 - 21:03:55: Start of error session.
+L 05/15/2026 - 21:03:55: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 21:03:55: [AMXX] Plugin file open error (plugin "zp_countdown_remix_wo_csxx.amxx")
+L 05/15/2026 - 21:17:25: Start of error session.
+L 05/15/2026 - 21:17:25: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 21:17:25: [AMXX] Plugin file open error (plugin "zp_countdown_remix.amxx")
+L 05/15/2026 - 21:17:25: [AMXX] Plugin file open error (plugin "zp_countdown_remix_wo_csxx.amxx")
+L 05/15/2026 - 21:17:25: [AMXX] Invalid Plugin (plugin "ZPUltraCountdownn.amxx")
+L 05/15/2026 - 21:23:22: Start of error session.
+L 05/15/2026 - 21:23:22: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 21:23:22: [AMXX] Plugin file open error (plugin "dhud_message_test.amxx")
+L 05/15/2026 - 21:23:22: [AMXX] Invalid Plugin (plugin "ZPUltraCountdownn.amxx")
+L 05/15/2026 - 21:27:38: Start of error session.
+L 05/15/2026 - 21:27:38: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 21:27:38: [AMXX] Invalid Plugin (plugin "dhud_message_test.amxx")
+L 05/15/2026 - 21:27:38: [AMXX] Invalid Plugin (plugin "ZPUltraCountdownn.amxx")
+L 05/15/2026 - 23:32:09: Start of error session.
+L 05/15/2026 - 23:32:09: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 23:32:09: [AMXX] Plugin file open error (plugin "zp50_hud_info.amxx")
+L 05/15/2026 - 23:40:30: Start of error session.
+L 05/15/2026 - 23:40:30: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 23:40:30: [AMXX] Plugin file open error (plugin "zp50_hud_info.amxx")
+L 05/15/2026 - 23:42:05: Start of error session.
+L 05/15/2026 - 23:42:05: Info (map "zm_laura") (file "addons/amxmodx/logs/error_20260515.log")
+L 05/15/2026 - 23:42:05: [AMXX] Plugin file open error (plugin "ZP50_custom_hub")

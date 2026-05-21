@@ -1,0 +1,30 @@
+L 15/05/2026 - 03:07:15: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 15/05/2026 - 11:43:20: (map "de_dust2") Mod_LoadModel: models/zombie_plague/v_knife_zombie.mdl not found
+L 15/05/2026 - 12:44:15: (map "zm_laura") Mod_LoadModel: models/player/bigzombie/bigzombie.mdl not found
+L 15/05/2026 - 12:44:29: (map "zm_laura") Mod_LoadModel: models/player/bigzombie/bigzombie.mdl not found
+L 15/05/2026 - 15:24:47: (map "zm_laura") Mod_LoadModel: models/zombie_plague/v_knife_zombie.mdl not found
+L 15/05/2026 - 15:27:33: (map "zm_laura") Mod_LoadModel: models/zombie_plague/v_knife_zombie.mdl not found
+L 15/05/2026 - 16:01:24: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 15/05/2026 - 19:59:07: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 15/05/2026 - 21:49:26: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 17/05/2026 - 15:54:44: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 18/05/2026 - 13:12:11: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 18/05/2026 - 13:12:20: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 18/05/2026 - 13:12:31: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 18/05/2026 - 16:09:12: (map "zm_toronto_remix_v2") TEX_InitFromWad: couldn't open de_vegas.wad
+
+L 18/05/2026 - 19:13:10: (map "zm_toronto_remix_v2") TEX_InitFromWad: couldn't open de_vegas.wad
+
+L 19/05/2026 - 20:06:13: (map "zm_toronto_remix_v2") TEX_InitFromWad: couldn't open de_vegas.wad
+
+L 19/05/2026 - 20:09:15: (map "zm_toronto_remix_v2") TEX_InitFromWad: couldn't open de_vegas.wad
+
+L 19/05/2026 - 20:09:27: (map "(null)") NET_OpenIP: Couldn't allocate dedicated server IP port 27015.
+L 19/05/2026 - 20:09:38: (map "zm_toronto_remix_v2") TEX_InitFromWad: couldn't open de_vegas.wad
+
+L 20/05/2026 - 15:27:17: (map "zm_laura") Mod_LoadModel: models/player/hazmat/hazmat.mdl has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 20/05/2026 - 22:23:37: (map "zm_toronto_remix_v2") TEX_InitFromWad: couldn't open de_vegas.wad
+
+L 21/05/2026 - 00:13:29: (map "zm_toronto_remix_v2") TEX_InitFromWad: couldn't open de_vegas.wad
+

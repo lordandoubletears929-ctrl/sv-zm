@@ -1,0 +1,12 @@
+2026-05-16 18:29:29 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-16 19:14:57 (ERROR): Unable to open Graph file for reading (filename: 'addons\yapb\data\graph\zm_cpl_egyptian.graph').
+2026-05-16 19:25:43 (ERROR): PersonalityNormal entry in weapons config is not valid or malformed (1/26).
+2026-05-16 19:25:43 (ERROR): PersonalityRusher entry in weapons config is not valid or malformed (1/26).
+2026-05-16 19:25:43 (ERROR): PersonalityCareful entry in weapons config is not valid or malformed (1/26).
+2026-05-16 19:33:19 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-16 20:43:37 (ERROR): Unable to open Graph file for reading (filename: 'addons\yapb\data\graph\zm_orling_base.graph').
+2026-05-16 21:02:52 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-16 21:03:41 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-16 23:30:00 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-16 23:32:34 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
+2026-05-16 23:54:07 (ERROR): Unable to save Practice file. Empty data. (filename: 'c:\users\diego\desktop\sv zm\cstrike\addons\yapb\data\train\zm_laura.prc').
